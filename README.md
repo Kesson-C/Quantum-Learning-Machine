@@ -1,1 +1,2 @@
-# Quantum-Learning-Machine
+# Quantum-Learning-Machine  
+Test memory effect
