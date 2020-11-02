@@ -1,3 +1,3 @@
-# Quantum-Learning-Machine  
-Test memory effect
+# Quantum-Pulse-Control
+Test pulse model
 with matisse tour
